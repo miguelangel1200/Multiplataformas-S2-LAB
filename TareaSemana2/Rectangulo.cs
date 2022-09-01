@@ -16,7 +16,7 @@ namespace TareaSemana2
         public double getPerimetro()
         {
             double baseP = Math.Sqrt(Math.Pow(V2.x - V1.x, 2) + Math.Pow(V2.y - V1.y, 2));
-            double alturaP = Math.Sqrt(Math.Pow(V3.x - V2.x, 2) + Math.Pow(V3.y - V2.y, 2));
+            double alturaP = Math.Sqrt(Math.Pow(V3.x - V1.x, 2) + Math.Pow(V3.y - V1.y, 2));
             return 2*(baseP + alturaP);
             
         }
