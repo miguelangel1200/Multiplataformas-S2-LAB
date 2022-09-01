@@ -1,0 +1,8 @@
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\bin\Debug\TareaSemana2.exe.config
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\bin\Debug\TareaSemana2.exe
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\bin\Debug\TareaSemana2.pdb
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\obj\Debug\TareaSemana2.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\obj\Debug\TareaSemana2.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\obj\Debug\TareaSemana2.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\obj\Debug\TareaSemana2.exe
+C:\Users\migue\source\repos\TareaSemana2\TareaSemana2\obj\Debug\TareaSemana2.pdb
